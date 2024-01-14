@@ -1,3 +1,3 @@
 #ifndef boot
-#define boot
+#define boot main
 #include "boot.c"
